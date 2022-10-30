@@ -1,7 +1,7 @@
 package com.example.zx.decorator;
 
 /**
- * 抽象装饰
+ * 抽象装饰类
  */
 public abstract class Decorator implements Component {
 	private Component component;
